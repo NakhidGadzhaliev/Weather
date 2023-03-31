@@ -15,7 +15,7 @@ Weather - это мобильное приложение для отслежив
 
 Приложение имеет простой интерфейс. Вы можете ввести на экране название любого города и информация о погоде в этом месте сразу же отобразится на вашем экране. По нажатии кнопки в левом углу происходит поиск информации о погоде по фактическому местонахождению пользователя
 
-<img src="https://github.com/NakhidGadzhaliev/Weather/blob/main/Москва.png" width="300" height="600"> <img src="https://github.com/NakhidGadzhaliev/Weather/blob/main/Париж.png" width="300" height="600"> <img src="https://github.com/NakhidGadzhaliev/Weather/blob/main/Дубай.png" width="300" height="600">
+<img src="https://github.com/NakhidGadzhaliev/Weather/blob/main/Москва.png" width="300" height="600"> <img src="https://github.com/NakhidGadzhaliev/Weather/blob/main/Париж.png" width="300" height="600">
 
 Вклад
 
