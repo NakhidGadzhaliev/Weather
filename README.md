@@ -5,7 +5,7 @@ Weather - это мобильное приложение для отслежив
 
 Для использования первоначально нужно дать приложению согласие на отслеживание локации. Отслеживание локации происходит за счет CoreLocation
 
-<img src="https://github.com/NakhidGadzhaliev/Chat/blob/main/Приветствие.png" width="300" height="600"> <img src="https://github.com/NakhidGadzhaliev/Chat/blob/main/Регистрация.png" width="300" height="600"> <img src="https://github.com/NakhidGadzhaliev/Chat/blob/main/Авторизация.png" width="300" height="600">
+<img src="https://github.com/NakhidGadzhaliev/Weather/blob/main/Запрос.png" width="300" height="600">
 
 Установка
 
@@ -13,8 +13,9 @@ Weather - это мобильное приложение для отслежив
 
 Использование
 
-Приложение имеет простой интерфейс. Вы можете ввести на экране название любого города и информация о погоде в этом месте сразу же отобразится на вашем экране.
-<img src="https://github.com/NakhidGadzhaliev/Chat/blob/main/Чат.png" width="300" height="600">
+Приложение имеет простой интерфейс. Вы можете ввести на экране название любого города и информация о погоде в этом месте сразу же отобразится на вашем экране. По нажатии кнопки в левом углу происходит поиск информации о погоде по фактическому местонахождению пользователя
+
+<img src="https://github.com/NakhidGadzhaliev/Weather/blob/main/Москва.png" width="300" height="600"> <img src="https://github.com/NakhidGadzhaliev/Weather/blob/main/Париж.png" width="300" height="600"> <img src="https://github.com/NakhidGadzhaliev/Weather/blob/main/Дубай.png" width="300" height="600">
 
 Вклад
 
